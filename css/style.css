@@ -1,0 +1,9 @@
+.content {
+    height: 100%;
+    width: 330px;
+    padding: 10px;
+}
+.contener {
+    border: 1px solid darkblue;
+    padding: 10px;
+}
